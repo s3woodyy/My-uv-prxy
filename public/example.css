@@ -37,21 +37,11 @@
     outline: 0;
     color: #141414;
     background-color: aliceblue;
-    font-size: 5vh;
-}
+    font-size:
+        
 body {
-    background-image: url("/IMG_1890.jpeg");
+    background-image: url('/IMG_1890.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-body {
-  margin: 100;
-  padding: 110;
-  background-image: url("IMG_1890.jpeg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100vh;
 }
