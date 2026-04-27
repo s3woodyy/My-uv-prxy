@@ -46,3 +46,12 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("IMG_1890.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
